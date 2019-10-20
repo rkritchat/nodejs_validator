@@ -12,6 +12,13 @@
   ],
   "author": "rkritchat",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rkritchat/nodejs_validator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rkritchat/nodejs_validator/issues"
+  },
   "dependencies": {
     "@types/jest": "^24.0.19",
     "moment": "^2.24.0",
